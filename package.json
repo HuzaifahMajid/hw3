@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HuzaifahMajid/i_calendar_verifier.git"
+    "url": "git+https://github.com/HuzaifahMajid/hw3.git"
   },
   "keywords": [
     "verification"
@@ -16,9 +16,9 @@
   "author": "zazi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HuzaifahMajid/i_calendar_verifier/issues"
+    "url": "https://github.com/HuzaifahMajid/hw3/issues"
   },
-  "homepage": "https://github.com/HuzaifahMajid/i_calendar_verifier#readme",
+  "homepage": "https://github.com/HuzaifahMajid/hw3#readme",
   "devDependencies": {
     "jasmine": "^4.0.0"
   },
